@@ -1,6 +1,6 @@
 <?php // php version 5.6
 
-class Application          // данные для поиска
+class Application       
 {
     public $array;
     public $element;
